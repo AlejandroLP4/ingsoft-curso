@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+- **Nombre**: Jose Alejandro Lopez Perez
+- **Correo**: 315186530@pcpuma.acatlan.unam.mx
