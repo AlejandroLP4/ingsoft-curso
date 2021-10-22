@@ -156,5 +156,3 @@ __Fuentes de consulta de JSON:__
 + https://www.mclibre.org/consultar/informatica/lecciones/formato-json.html
 + https://www.nextu.com/blog/que-es-json/
 + https://cambiodigital-ol.com/2019/10/json-que-es-como-usarlo-y-con-que-herramientas/
-
-aa
